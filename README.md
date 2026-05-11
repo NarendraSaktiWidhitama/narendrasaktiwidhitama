@@ -29,7 +29,8 @@
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NarendraSaktiWidhitama&show_icons=true&theme=tokyonight&count_private=true" alt="Narendra's Stats" />
-  <br/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraSaktiWidhitama&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
